@@ -1,0 +1,4 @@
+这是公司集团后台配置文件，
+如果你想访问公司官网，可在浏览器中输入epar.asia
+本人正在学习vue3以及markdown和html5和JavaScript语言，略有缓慢
+望理解
